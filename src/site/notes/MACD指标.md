@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/MACD指标/"}
+{"dg-publish":true,"permalink":"/MACD指标/","noteIcon":""}
 ---
 
 MACD指标是《缠中说禅》中最重要的辅助指标，主要用来判断各级别股价运行过程中是否与该指标发生背驰走势，若背驰则股价就要发生反转。此文让你对此指标和中枢，有更进一步的理解。
